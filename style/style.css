@@ -1,9 +1,17 @@
 
 body{
     background-color: #333;
+}
+
+h2 {
     color: white;
 }
 
+ul {
+    position: fixed;
+    top: 0;
+    width: 101%;
+}
 li {
     float: left;
     text-decoration: none;
