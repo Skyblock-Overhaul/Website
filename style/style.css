@@ -24,6 +24,7 @@ li {
     list-style-type: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 li a {
     display: block;
     color: white;
@@ -31,6 +32,8 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border-radius: 4px;
+    margin-right: 8px;
 }
 li a:hover:not(.active) {
     background-color: #111;
