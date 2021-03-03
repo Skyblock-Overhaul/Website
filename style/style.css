@@ -85,8 +85,9 @@ li a:hover:not(.active) {
 }
 #ptag1 a:hover:not(.active) {
     height: 18px;
-    background-color: #111;
+    background-color: #2196F3;
     border: 5px solid #2196F3;
+    border-radius: 4px;
 }
 
 #topbar_full_blue {
