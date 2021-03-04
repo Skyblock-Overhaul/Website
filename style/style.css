@@ -71,20 +71,23 @@ li a:hover:not(.active) {
     list-style-type: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 #ptag1 a {
     height: 18px;
     display: block;
     color: white;
-    background-color: #111;
+    background-color: #333;
     text-align: left;
     padding: 16px 16px;
     text-decoration: none;
-    border: 5px solid #333
+    border: 5px solid #333;
+    border-radius: 4px;
 }
 #ptag1 a:hover:not(.active) {
     height: 18px;
-    background-color: #111;
+    background-color: #2196F3;
     border: 5px solid #2196F3;
+    border-radius: 4px;
 }
 
 #topbar_full_blue {
