@@ -144,16 +144,3 @@ li a:hover:not(.active) {
     margin-right: 16px;
     font-size: 17px;
 }
-
-#bluediv1 {
-    height: 14px;
-    width: 100%;
-    background-color: #2196F3;
-    border-radius: 4px;
-}
-#bluediv2 {
-    height: 8px;
-    width: 100%;
-    background-color: #2196F3;
-    border-radius: 4px;
-}
