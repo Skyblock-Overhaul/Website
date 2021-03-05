@@ -113,18 +113,6 @@ li a:hover:not(.active) {
     border-radius: 4px;
 }
 
-#topbar_full_blue {
-    height: 8px;
-    background-color: #2196F3;
-}
-#topbar_full_grey {
-    height: 8px;
-    background-color: #333;
-}
-#topbar_full_dgrey {
-    height: 8px;
-    background-color: #111;
-}
 
 /* TOP BAR */
 .topnav {
@@ -155,4 +143,17 @@ li a:hover:not(.active) {
     margin-top: 8px;
     margin-right: 16px;
     font-size: 17px;
+}
+
+#bluediv1 {
+    height: 14px;
+    width: 100%;
+    background-color: #2196F3;
+    border-radius: 4px;
+}
+#bluediv2 {
+    height: 8px;
+    width: 100%;
+    background-color: #2196F3;
+    border-radius: 4px;
 }
