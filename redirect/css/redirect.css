@@ -3,13 +3,14 @@ html {
 }
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    background: #999;
+    border-radius: 5px;
+    text-align: center;
+    align-self: center;
+    height: min-content;
 }
 body a {
     text-decoration: none;
     color: turquoise;
-}
-body div.container {
-    padding: 10px;
-    background: #999;
-    border-radius: 5px;
 }
